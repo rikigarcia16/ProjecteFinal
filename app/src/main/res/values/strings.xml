@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Auction App</string>
+
+    <string name="navigation_drawer_open">Obrir</string>
+    <string name="navigation_drawer_close">Tancar</string>
+
+    <string name="username">Usuari</string>
+    <string name="password">Contrassenya</string>
+    <string name="login">Iniciar Sessió</string>
+
+    <string name="electronica">Electronica/electrocasnice</string>
+    <string name="telefon">Telefon/tablet</string>
+    <string name="hobby">Hobby/Esport</string>
+    <string name="imobiliare">Imobiliare/Terenuri</string>
+    <string name="industriale">Echipamente industriale/Utilaje</string>
+    <string name="auto">Auto/Moto/Ambarcatiuni</string>
+    <string name="hello">Benvingut!</string>
+    <string name="hello_auto">Autofragment</string>
+    <string name="hello_imob">Fragment imobiliare</string>
+    <string name="hello_sport">Sport fragment</string>
+    <string name="hello_elec">Electronice fragment</string>
+    <string name="hello_telefoane">Fragment telefoane</string>
+    <string name="hello_utilaje">Fragment utilaje</string>
+    <string name="sign_up">Registrar</string>
+    <string name="email">Email</string>
+    <string name="retype_pass">Torna a escriure la contrassenya</string>
+    <string name="signup">Registrar</string>
+    <string name="nova_subhasta">Nova subhasta</string>
+    <string name="nom_producte">Nom del producte</string>
+    <string name="descripcio_pro">Descriure producte</string>
+    <string name="add_image">Afegir imatge</string>
+    <string name="sp_categorie">Categoria</string>
+    <string name="preu_inici">Preu inicial</string>
+    <string name="nr_tel">Nr. telefon</string>
+    <string name="temps">Temps</string>
+    <string name="afegir_pro">Afegir producte</string>
+    <string name="meves_subhastes">Meves subhastes</string>
+    <string name="delete">Borrar</string>
+    <string name="update">Modifica</string>
+    <string name="preu">Preu</string>
+    <string name="perfil">Meu perfil</string>
+    <string name="btn_delete">Eliminar perfil</string>
+    <string name="btn_update">Modificar perfil</string>
+    <string name="remember_me">Recorda-m</string>
+    <string name="no_licitacions">Nr. licitacions</string>
+    <string name="mostrar_nom">Mostrar nom</string>
+    <string name="oferta">Oferta</string>
+    <string name="teu_preu">El teu preu</string>
+    <string name="contact">Contacte</string>
+    <string name="sobre">Sobre</string>
+
+
+    <string-array name="sp_choices">
+        <item>Auto/Moto/Ambarcatiuni</item>
+        <item>Imobiliare/Terenuri</item>
+        <item>Hobby/Sport/Timp liber</item>
+        <item>Electronice si Electrocasnice</item>
+        <item>Telefoane/Tablete/PC</item>
+        <item>Echipamente industriale/Utilaje</item>
+    </string-array>
+</resources>
